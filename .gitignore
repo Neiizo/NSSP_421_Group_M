@@ -1,6 +1,5 @@
 */.ipynb_checkpoints/*
 */dataset/*
-Project3/sub/s1.mat
-Project3/sub/s2.mat
-*.mat
+Project3/sub/*.mat
+Project3/sub/*.mat
 *.csv
